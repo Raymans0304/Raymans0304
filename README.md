@@ -1,8 +1,9 @@
-Bem vindo ao meu perfil!
+### Boas vindas ao meus perfil
 
-**Raymans0304/Raymans0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-meu nome é Ryan
-Here are some ideas to get you started:
-1a
-estudante do ieppep
-![](https://tenor.com/pt-BR/view/batman-gif-24979167)
+Meu nome é Ryan Kaue Fernandes Bozza 
+
+- Estou estudando na Alura [Alura] (https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem javaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+![](https://media.tenor.com/NngS_U0rYAkAAAAC/batman.gif)
